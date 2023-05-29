@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/object.ser" charset="CESU-8" />
+    <file url="file://$PROJECT_DIR$/object.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/controller/GameController.java" charset="UTF-8" />
+    <file url="jar://$PROJECT_DIR$/../../下载/openjdk-17.0.2_windows-x64_bin/jdk-17.0.2/lib/src.zip!/java.desktop/javax/swing/plaf/basic/BasicButtonListener.java" charset="GBK" />
+  </component>
+</project>
